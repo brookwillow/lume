@@ -1,0 +1,29 @@
+.env.example
+  s_916dea835a8012::t_abaade02fb341b 1-6
+.python-version
+  s_916dea835a8012::t_7f9bf3fd91c3ff 1
+README.md
+  s_916dea835a8012::t_5536c739042e73 1-41
+py/lume/prefetch.py
+  s_916dea835a8012::t_5dd027ad57d276 1-11
+py/pyproject.toml
+  s_916dea835a8012::t_cb59dc669a3f28 7-8,10,12-13,21-26
+py/uv.lock
+  s_916dea835a8012::t_93853718ca8ca4 1-6500
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3aec8a07cd58f533b2aed691323fdf98c0ed45c8",
+  "prompts": {},
+  "sessions": {
+    "s_916dea835a8012": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e8ae-da44-7d62-82df-8c97b937cc98",
+        "model": "unknown"
+      },
+      "human_author": "brook <out_frozen@163.com>"
+    }
+  }
+}
