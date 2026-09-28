@@ -1,0 +1,66 @@
+.gitignore
+  h_637182b8639bf3 1-16
+py/lume/agent.py
+  h_637182b8639bf3 1-717
+py/lume/asr_correction.py
+  h_637182b8639bf3 1-201
+py/lume/asr_lexicon.py
+  h_637182b8639bf3 1-544
+py/lume/clipboard_memory.py
+  h_637182b8639bf3 1-58
+py/lume/config.py
+  h_637182b8639bf3 1-148
+py/lume/eval_logger.py
+  h_637182b8639bf3 1-148
+py/lume/eval_view.py
+  h_637182b8639bf3 1-200
+py/lume/hotword_view.py
+  h_637182b8639bf3 1-37
+py/lume/llm.py
+  h_637182b8639bf3 1-96
+py/lume/main.py
+  h_637182b8639bf3 1-500
+py/lume/memory.py
+  h_637182b8639bf3 1-626
+py/lume/output.py
+  h_637182b8639bf3 1-95
+py/lume/overlay.py
+  h_637182b8639bf3 1-691
+py/lume/skill_evolution.py
+  h_637182b8639bf3 1-603
+py/lume/stats_reporter.py
+  h_637182b8639bf3 1-377
+py/lume/tools.py
+  h_637182b8639bf3 1-1137
+py/lume/voice.py
+  h_637182b8639bf3 1-265
+py/pyproject.toml
+  h_637182b8639bf3 1-17
+py/tests/test_agent_context.py
+  h_637182b8639bf3 1-84
+py/tests/test_asr_lexicon.py
+  h_637182b8639bf3 1-140
+py/tests/test_config.py
+  h_637182b8639bf3 1-84
+py/tests/test_memory.py
+  h_637182b8639bf3 1-146
+py/tests/test_skill_evolution.py
+  h_637182b8639bf3 1-170
+py/tests/test_stats_reporter.py
+  h_637182b8639bf3 1-154
+py/tests/test_tools.py
+  h_637182b8639bf3 1-342
+py/tests/test_voice.py
+  h_637182b8639bf3 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ed35c1278141f0b04a57569675b981c44ec52a56",
+  "prompts": {},
+  "humans": {
+    "h_637182b8639bf3": {
+      "author": "wangj77 <wangj77@xiaopeng.com>"
+    }
+  }
+}
